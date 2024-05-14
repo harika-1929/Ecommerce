@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">EcommerceApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="txtHeaderTitle">Grocery</string>
+    <string name="txtProductDescription">Fresh and Farm produce Organic Broccoli</string>
+    <string name="txtCatHeader">Vegetables</string>
+    <string name="txtItemDesc">Fresh and Farm Produce Broccoli\n</string>
+    <string name="txtPDItemDetails">Farm Produce Broccoli\n</string>
+    <string name="txtPDDescription">Farm Produce Broccoli</string>
+    <string name="user_reviews">User Reviews</string>
+    <string name="txtUserId">harika0429</string>
+    <string name="txtUserReviewDesc">User Desc</string>
+</resources>
